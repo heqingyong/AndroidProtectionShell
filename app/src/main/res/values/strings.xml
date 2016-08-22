@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidProtectionShell</string>
+    <string name="demo_app_name">AndroidProtectionDemo</string>
+    <string name="hello_world">我是壳程序\n\n我包含真正的APK源程序</string>
+    <string name="hello_world_demo">被加壳的APK源程序\n\nHaha, I can do it.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
